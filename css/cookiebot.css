@@ -1,10 +1,11 @@
 #CybotCookiebotDialog button{ 
-    height : unset !important;
-    line-height: unset !important;
+    height : auto !important;
+    line-height: auto !important;
     box-shadow : unset !important;
 }
 
-#CybotCookiebotDialog button:hover, button:active, button:focus{ 
+#CybotCookiebotDialog button:hover, .button:hover, button:active, .button:active,
+.button:active, button:focus .button:focus{ 
     box-shadow : unset !important;
     color : #000 !important;
     background-color : unset !important;
@@ -17,6 +18,7 @@
 
 #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
     color : #fff !important;
+    background-color : #1032CF !important;
 }
 
 #CybotCookiebotDialogDetailBodyContentCookieContainerPreference
