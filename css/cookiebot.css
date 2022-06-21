@@ -1,12 +1,12 @@
-#CybotCookiebotDialog input,button{ 
+#CybotCookiebotDialog button{ 
     height : unset !important;
     line-height: unset !important;
     box-shadow : unset !important;
 }
 
-#CybotCookiebotDialog button:hover, button:active{ 
+#CybotCookiebotDialog button:hover, button:active, button:focus{ 
     box-shadow : unset !important;
-    color : unset !important;
+    color : #000 !important;
     background-color : unset !important;
 }
 
