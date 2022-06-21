@@ -1,8 +1,8 @@
 #CybotCookiebotDialog .button{ 
-    height : auto;
-    line-height: auto;
+    height : auto !important;
+    line-height: auto !important;
 }
 
 #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
-    color : #fff;
+    color : #fff !important;
 }
